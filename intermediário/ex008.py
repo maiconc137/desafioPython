@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima se esse número é positivo, negativo ou zero.
+Crie uma função que receba uma lista de strings e retorne uma nova lista com as strings 
+que contêm pelo menos uma vogal.
 """
 
 # Solução proposta:

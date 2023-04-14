@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de números separados 
-por vírgulas, e, em seguida, imprima somente os números que são múltiplos de 3 e de 5.
+Crie uma função que receba uma lista de números e retorne o número que está mais 
+próximo da raiz quadrada da soma dos quadrados dos números na lista original.
 """
 
 # Solução proposta:

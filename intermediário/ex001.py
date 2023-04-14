@@ -1,7 +1,6 @@
 """
-Escreva um programa que imprima "Olá, mundo!" na tela.
+Crie uma função que receba uma lista de números e retorne a média aritmética dos 
+números pares.
 """
 
 # Solução proposta:
-
-print('Olá mundo')

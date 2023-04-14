@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima os números ímpares de 0 até esse número.
+Crie uma função que receba uma lista de números e retorne uma nova lista com os 
+números ordenados de forma decrescente e sem repetição.
 """
 
 # Solução proposta:

@@ -1,7 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima os números de 0 até esse número, mas substitua os múltiplos de 3 por "Fizz" e 
-os múltiplos de 5 por "Buzz".
+Crie uma função que receba uma lista de strings e retorne uma nova lista com as strings 
+que têm pelo menos uma letra maiúscula e um número.
 """
 
 # Solução proposta:

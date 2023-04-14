@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de nomes separados 
-por vírgulas, e, em seguida, imprima esses nomes em ordem alfabética.
+Crie uma função que receba uma lista de números e retorne uma nova lista com os 
+números que são iguais à soma dos seus dígitos elevados ao cubo.
 """
 
 # Solução proposta:

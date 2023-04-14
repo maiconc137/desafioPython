@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de números separados 
-por vírgulas, e, em seguida, imprima somente os números ímpares dessa lista.
+Crie uma função que receba uma lista de números e retorne uma nova lista com os 
+números que são primos.
 """
 
 # Solução proposta:

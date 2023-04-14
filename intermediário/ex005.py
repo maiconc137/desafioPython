@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar dois números e, em seguida,
-imprima o produto desses números.
+Crie uma função que receba uma lista de números e retorne a soma dos quadrados dos 
+números ímpares.
 """
 
 # Solução proposta:

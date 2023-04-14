@@ -1,6 +1,7 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de números separados 
-por vírgulas, e, em seguida, imprima a média desses números.
+Crie uma função que receba uma lista de strings e retorne uma nova lista com as strings 
+que têm pelo menos uma letra maiúscula, uma letra minúscula, um número 
+e um caractere especial, nesta ordem.
 """
 
 # Solução proposta:

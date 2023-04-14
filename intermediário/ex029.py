@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de números separados 
-por vírgulas, e, em seguida, imprima somente os números negativos dessa lista.
+Crie uma função que receba uma lista de números e retorne o número que aparece com 
+mais frequência na lista.
 """
 
 # Solução proposta:

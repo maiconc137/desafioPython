@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de números separados 
-por vírgulas, e, em seguida, imprima somente os números que são múltiplos de 3 e de 5.
+rie uma função que receba uma lista de números e retorne uma nova lista com os 
+números que são capicuas(também conhecidos como palíndromo).
 """
 
 # Solução proposta:

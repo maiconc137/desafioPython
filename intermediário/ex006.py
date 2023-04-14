@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima se esse número é par ou ímpar.
+Crie uma função que receba uma lista de strings e retorne uma nova lista com todas as 
+strings convertidas em letras maiúsculas.
 """
 
 # Solução proposta:

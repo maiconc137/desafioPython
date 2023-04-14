@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar seu nome e, em seguida,
-imprima "Olá, <nome>!" na tela.
+Crie uma função que receba uma lista de números e retorne o segundo maior número da 
+lista.
 """
 
 # Solução proposta:

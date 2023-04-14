@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima todos os divisores desse número.
+Crie uma função que receba uma lista de números e retorne o número mais próximo da 
+média da lista.
 """
 
 # Solução proposta:

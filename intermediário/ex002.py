@@ -1,6 +1,5 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida,
-imprima esse número na tela.
+Crie uma função que receba uma lista de strings e retorne a string mais longa da lista.
 """
 
 # Solução proposta:

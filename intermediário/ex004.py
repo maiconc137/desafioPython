@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar dois números e, em seguida,
-imprima a soma desses números.
+Crie uma função que receba uma lista de strings e retorne uma nova lista com as strings 
+ordenadas por tamanho, da menor para a maior.
 """
 
 # Solução proposta:

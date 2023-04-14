@@ -1,7 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma palavra e, em seguida, 
-imprima se essa palavra é um palíndromo (ou seja, se ela pode ser lida da mesma forma 
-da esquerda para a direita e da direita para a esquerda).
+Crie uma função que receba uma lista de números e retorne uma nova lista com os 
+números que são divisíveis por 3 ou 5.
 """
 
 # Solução proposta:

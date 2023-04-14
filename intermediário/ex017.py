@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima a soma de todos os números de 1 até esse número.
+Crie uma função que receba uma lista de números e retorne o produto dos números que 
+estão em posições ímpares na lista.
 """
 
 # Solução proposta:

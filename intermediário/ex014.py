@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima os números pares de 0 até esse número.
+Crie uma função que receba uma lista de strings e retorne uma nova lista com as strings 
+que têm pelo menos uma letra maiúscula e uma letra minúscula.
 """
 
 # Solução proposta:
