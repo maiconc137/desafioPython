@@ -4,7 +4,9 @@ Este repositório contém uma lista de 100 exercícios em Python, divididos em 3
 
 ## Como usar
 
-Os exercícios estão organizados em pastas, de acordo com o nível de dificuldade. Cada pasta contém um arquivo README com a lista de exercícios e um diretório com as soluções dos mesmos.
+Os exercícios estão organizados em pastas, de acordo com o nível de dificuldade. Cada pasta contém um um arquivo .py com o exercício e uma solução proposta (nem todos estão resolvidos).
+
+É importante destacar que para realizar alguns dos exercícios do nível avançado é necessário ter uma base sólida em matemática, especialmente em tópicos como cálculo, álgebra linear e teoria dos números. Porém, existem também exercícios que envolvem conceitos mais avançados de programação e estrutura de dados, que podem ser realizados mesmo sem essa base matemática tão avançada. É importante avaliar bem o seu nível de conhecimento antes de se aventurar nos exercícios mais complexos.
 
 ## Classificação dos exercícios
 
