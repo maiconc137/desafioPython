@@ -1,6 +1,5 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima o fatorial desse número.
+Crie uma função que receba um grafo não direcionado e determine se ele é bipartido.
 """
 
 # Solução proposta:

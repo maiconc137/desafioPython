@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima os números pares de 0 até esse número.
+Crie uma função que receba uma expressão matemática em notação polonesa reversa 
+(RPN) e retorne o resultado da expressão.
 """
 
 # Solução proposta:

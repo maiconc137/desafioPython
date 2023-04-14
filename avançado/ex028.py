@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de números separados 
-por vírgulas, e, em seguida, imprima somente os números positivos dessa lista.
+Implemente uma rede neural convolucional para classificar imagens do dataset 
+CIFAR-10.
 """
 
 # Solução proposta:

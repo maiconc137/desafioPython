@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar seu nome e, em seguida, 
-imprima seu nome ao contrário.
+Crie uma função que receba uma lista de números e retorne o número máximo que pode 
+ser formado a partir desses números.
 """
 
 # Solução proposta:

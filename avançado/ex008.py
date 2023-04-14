@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima se esse número é positivo, negativo ou zero.
+Crie uma função que receba uma lista de palavras e retorne a lista de palavras que têm 
+um anagrama na lista.
 """
 
 # Solução proposta:

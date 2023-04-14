@@ -1,6 +1,5 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de números separados 
-por vírgulas, e, em seguida, imprima o maior número dessa lista.
+Implemente o algoritmo de ordenação tim sort em Python.
 """
 
 # Solução proposta:

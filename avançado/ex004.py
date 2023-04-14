@@ -1,6 +1,5 @@
 """
-Escreva um programa que peça ao usuário para digitar dois números e, em seguida,
-imprima a soma desses números.
+Crie uma função que encontre a k-ésima maior elemento em uma lista de números.
 """
 
 # Solução proposta:

@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma lista de números separados 
-por vírgulas, e, em seguida, imprima somente os números pares dessa lista.
+Crie uma função que receba um grafo não direcionado e encontre o caminho mais curto 
+entre dois vértices usando o algoritmo de Dijkstra.
 """
 
 # Solução proposta:

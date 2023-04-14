@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar uma frase e, em seguida, 
-imprima quantas letras essa frase possui.
+Crie uma função que receba um grafo não direcionado e retorne uma árvore geradora 
+mínima usando o algoritmo de Kruskal.
 """
 
 # Solução proposta:

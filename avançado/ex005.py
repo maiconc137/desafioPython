@@ -1,6 +1,5 @@
 """
-Escreva um programa que peça ao usuário para digitar dois números e, em seguida,
-imprima o produto desses números.
+Implemente o algoritmo de busca em largura (BFS) para grafos não direcionados em Python.
 """
 
 # Solução proposta:

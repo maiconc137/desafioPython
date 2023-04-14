@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar seu nome e idade e, em seguida, 
-imprima "Olá, <nome>! Você tem <idade> anos." na tela.
+Implemente o algoritmo de busca em profundidade (DFS) para grafos não direcionados 
+em Python.
 """
 
 # Solução proposta:

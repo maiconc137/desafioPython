@@ -1,6 +1,6 @@
 """
-Escreva um programa que peça ao usuário para digitar um número e, em seguida, 
-imprima se esse número é um número primo.
+Crie uma função que receba um grafo não direcionado e encontre o corte mínimo usando o 
+algoritmo de Stoer-Wagner.
 """
 
 # Solução proposta:
