@@ -4,3 +4,6 @@ imprima esse número na tela.
 """
 
 # Solução proposta:
+
+num = input('Digite um número: ')
+print('Vcocê digitou o número: {}'.format(num))
