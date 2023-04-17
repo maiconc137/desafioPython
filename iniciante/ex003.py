@@ -4,3 +4,6 @@ imprima "Olá, <nome>!" na tela.
 """
 
 # Solução proposta:
+
+nome = input('Qual seu nome? ')
+print('\n Olá, {}!\n'.format(nome))
