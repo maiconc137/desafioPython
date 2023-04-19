@@ -4,3 +4,8 @@ imprima "Olá, <nome>! Você tem <idade> anos." na tela.
 """
 
 # Solução proposta:
+
+nome = input('Qual seu nome? ')
+idade = int(input('Qual sua idade? '))
+
+print('\nOlá {}, você tem {} anos\n'.format(nome, idade))
