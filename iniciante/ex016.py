@@ -8,7 +8,9 @@ os múltiplos de 5 por "Buzz".
 
 def fizz_buzz(x):
     lista = []
-    for i in range(1, x):
+    for i in range(0, x):
+        if not i:
+            lista.append(i)
         if i % 3 == 0:
             lista.append('Fizz')
         elif i % 5 == 0:
