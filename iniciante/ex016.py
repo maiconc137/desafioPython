@@ -21,3 +21,4 @@ def fizz_buzz(x):
 
 num = int(input('Digite um número: '))
 nova_lista = fizz_buzz(num)
+print(nova_lista)
