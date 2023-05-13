@@ -14,6 +14,10 @@ def string_mais_longa(lista: list) -> str:
 
     return lista[maior_string]
 
+# Solução alternativa utilizando o método sort
+# def string_mais_longa(lista: list) -> str:
+#     lista.sort(reverse=True, key=lambda x: len(x))
+#     return lista[0]
 
 exemplo = [
         "teste",
